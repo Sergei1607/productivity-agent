@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Finish productivity agent demo",
+    "notes": "Need this working before the next learning session. No hard deadline yet."
+  },
+  {
+    "id": 2,
+    "title": "Renew passport",
+    "notes": "Not sure how long renewal is currently taking for Costa Rican citizens applying from abroad."
+  },
+  {
+    "id": 3,
+    "title": "Prep for flight to Chicago next week",
+    "notes": "Need to check what documents are required and the weather forecast for packing."
+  },
+  {
+    "id": 4,
+    "title": "Buy birthday gift for mom",
+    "notes": "Her birthday is in 10 days. No ideas yet."
+  },
+  {
+    "id": 5,
+    "title": "Review teammate's pull request",
+    "notes": "Blocking their deployment, should do today."
+  }
+]
